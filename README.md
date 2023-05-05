@@ -23,7 +23,7 @@ To use this script, you will need to create a file called **accession_numbers.tx
 Once you have created the input file, you can run the script by executing the following command in your terminal:
 
 
-> python accession_to_unique_id.py
+> python main.py
 
 The script will search for each accession number on the NCBI website and extract the corresponding unique identifier. The results will be saved to a file called **unique_ids.txt.**
 
